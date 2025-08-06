@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:1F2937&height=200&text=maazin%20zaidi&fontColor=ffffff&fontSize=40&fontAlign=middle&fontAlignY=45&desc=AI%20%7C%20Data%20%7C%20Dev%20Tools&descSize=18&descAlign=middle&descAlignY=70)
+![banner](https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:1F2937&height=200&text=maazin%20zaidi&fontColor=ffffff&fontSize=40&fontAlign=middle&fontAlignY=45&desc=AI%20%7C%20Data&descSize=18&descAlign=middle&descAlignY=70)
 ## hey, i'm maazin zaidi 👋
 
 a self-proclaimed data scientist/engineer & part-time sketchpad enthusiast.
