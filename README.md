@@ -41,7 +41,7 @@ learned way more than expected about sqlite3 in python, and how APIs sometimes s
 - i say "let me do this real quick" and lose an entire day
 - i use `print()` debugging like it's 2012 (no regrets btw)
 - i talk to my code like it's a person. "you had one job"
-- i comment like i'm talking to a third grader (myself when i visit the file)
+- i comment like i'm talking to a third grader (myself when i revisit the file)
 
 
 ## 🎨 hobbies
