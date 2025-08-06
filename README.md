@@ -38,18 +38,19 @@ learned way more than expected about sqlite3 in python, and how APIs sometimes s
 
 
 ## 🫠 fun facts (things i probably shouldn't admit)
-- i treat my sqlite database like a pet
+- i say "let me do this real quick" and lose an entire day
 - i use `print()` debugging like it's 2012 (no regrets btw)
 - i talk to my code like it's a person. "you had one job"
+- i comment like i'm talking to a third grader (myself when i visit the file)
 
 
 ## 🎨 hobbies
-i try to sketch cities and interiors (i'm failing. miserably), write occasionally (no you can't read), doom-scroll (lol obviously), and tell myself i'm not procrastinating (i am).  
+i try to sketch cities and interiors (i'm failing. miserably), write occasionally (no you can't read), doom-scroll (lol obviously), and tell myself i'm not procrastinating (~i am~).  
 oh and i treat music discovery like a side quest  
 
 
 ## 📫 find me here
 reach out, i promise won't reply with "let me circle back"  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maazinz)
-[![Email](https://img.shields.io/badge/email-grey?style=flat&logo=gmail)](mailto:maazinz406@gmail.com)  
+[![Email](https://img.shields.io/badge/email-grey?style=flat&logo=gmail)](mailto:maazin.z406@gmail.com)  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
